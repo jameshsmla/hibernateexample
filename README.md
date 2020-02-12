@@ -1,1 +1,1 @@
-# hibernateexample
+# hibernate code example
